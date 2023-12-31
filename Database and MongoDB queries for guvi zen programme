@@ -9,8 +9,8 @@ db.createCollection("mentors");
 
 // Example: Inserting a document into the 'users' collection
 db.users.insertOne({
-  name: "John Doe",
-  email: "john@example.com",
+  name: "mike",
+  email: "mike@example.com",
   role: "student",
   tasksCompleted: ["taskID1", "taskID2"],
   attendance: ["attendanceID1", "attendanceID2"]
